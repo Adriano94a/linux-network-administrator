@@ -45,7 +45,7 @@ Este repositório serve como:
 
 ## 📎 Conecte-se
 
-🔗 [Meu LinkedIn]([https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/adriano-souza-b41739a0/)  
+🔗 [Meu LinkedIn]([https://www.linkedin.com/in/adriano-souza-b41739a0])
 📂 [Meu GitHub](https://github.com/SEU_USUARIO](https://github.com/Adriano94a)
 
 ---
