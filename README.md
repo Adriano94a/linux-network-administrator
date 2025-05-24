@@ -6,21 +6,21 @@ Este projeto tem como objetivo documentar e praticar a administração de redes 
 
 ## 🔧 Serviços abordados no projeto
 
-| Serviço | Status | Descrição |
-|--------|--------|-----------|
-| PAM | ⏳ | Gerenciamento de autenticação e segurança |
-| RAID | ⏳ | Redundância e performance em discos |
-| LVM | ⏳ | Gerenciamento lógico de volumes |
-| DHCP | ⏳ | Atribuição automática de IPs |
-| FTP / NFS | ⏳ | Compartilhamento de arquivos |
-| SAMBA | ⏳ | Integração com redes Windows |
-| DNS | ⏳ | Resolução de nomes |
-| Apache | ⏳ | Servidor web |
-| Postfix | ⏳ | Servidor de e-mails |
-| Squid | ⏳ | Servidor proxy |
-| IPTables | ⏳ | Regras de firewall |
-| VPN | ⏳ | Rede segura sobre a internet |
-| LDAP | ⏳ | Diretório centralizado de autenticação |
+| Serviço   | Status | Descrição                                     |
+|-----------|--------|-----------------------------------------------|
+| PAM       | ⏳      | Gerenciamento de autenticação e segurança     |
+| RAID      | ⏳      | Redundância e performance em discos           |
+| LVM       | ⏳      | Gerenciamento lógico de volumes               |
+| DHCP      | ⏳      | Atribuição automática de IPs                  |
+| FTP / NFS | ⏳      | Compartilhamento de arquivos                  |
+| SAMBA     | ⏳      | Integração com redes Windows                  |
+| DNS       | ⏳      | Resolução de nomes                            |
+| Apache    | ⏳      | Servidor web                                  |
+| Postfix   | ⏳      | Servidor de e-mails                           |
+| Squid     | ⏳      | Servidor proxy                                |
+| IPTables  | ⏳      | Regras de firewall                            |
+| VPN       | ⏳      | Rede segura sobre a internet                  |
+| LDAP      | ⏳      | Diretório centralizado de autenticação        |
 
 ---
 
@@ -45,8 +45,8 @@ Este repositório serve como:
 
 ## 📎 Conecte-se
 
-🔗 [Meu LinkedIn]([https://www.linkedin.com/in/adriano-souza-b41739a0])
-📂 [Meu GitHub](https://github.com/SEU_USUARIO](https://github.com/Adriano94a)
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/adriano-souza-b41739a0)  
+📂 [Meu GitHub](https://github.com/Adriano94a)
 
 ---
 
